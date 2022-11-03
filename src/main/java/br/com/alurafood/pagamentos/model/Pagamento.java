@@ -44,7 +44,7 @@ public class Pagamento {
 	private Status status;
 	
 	@NotNull 
-	private Long periodoId;
+	private Long pedidoId;
 	
 	@NotNull 
 	private Long formaDePagamentoId;
